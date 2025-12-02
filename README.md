@@ -1,109 +1,116 @@
-# 🤖 𝐃𝐞𝐦𝐨𝐧𝐁𝐨𝐭𝐱 𝐁𝐨𝐭 
+<div align="center">
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+# ⚡🔥 **𝐃𝐞𝐦𝐨𝐧𝐁𝐨𝐭𝐱 — NEXT-GEN WhatsApp Multi-Device Bot** 🔥⚡  
+### Advanced Automation • Group Management • Media Tools • AI Commands
 
-<div align="center"> 
-  <img src="https://i.ibb.co/mVz9sYDg/mic-white.jpg" alt="bot-image" border="0"/>
-</div> 
+<img src="https://i.ibb.co/mVz9sYDg/mic-white.jpg" width="300"/>
 
 ---
 
-## 🌟 Owner & Support
-
-<div align="center">
-
-| 🌟 Owner      | 🌐 Supported | 🔒 Code Protect |
-|--------------|-------------|----------------|
-| **𝐋𝐮𝐜𝐢𝐟𝐞𝐫**  | **GitHub**  | **Enabled**    |
-
-📺 **YouTube:** [@demoneye_official](https://youtube.com/@demoneye_official)  
-💬 **Telegram:** [Next_DYS](https://t.me/Next_DYS)  
-💻 **GitHub:** [DemonEye143](https://github.com/DemonEye143)  
-
-</div>
+## 🏆 **Premium WhatsApp Bot Built for Power Users**
+A high-performance WhatsApp Multi-Device Bot created using  
+**Baileys MD → Stable, Fast, Secure**  
+Perfect for **Group Admins, Developers & Power Users**.
 
 ---
 
-## 🚀 Steps to Deploy
+# 🧑‍💻 Developer Information
 
-### Step 1: Fork the Repository
+| 👑 Owner | 🌐 Platforms | 🔒 Security |
+|---------|--------------|-------------|
+| **🔥 Lucifer (DemonEye)** | GitHub • YouTube • Telegram | ✔️ Protected Code |
 
-Click the button below to fork the Knight Bot repository to your GitHub account:
-
-<div align="center">
-  <a href="https://github.com/DemonEye143/DEMON_BOT_X.git">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
-  </a>
-</div>
-
----
-
-### Step 2: Get Pair Code
-
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
-
-<div align="center">
- <a
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Replit-success?style=for-the-badge" alt="Deploy on Replit"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
-  </a>
-</div>
-
-**After getting `creds.json` file, upload it to the session folder.**
+### 🔗 Connect With Developer  
+**YouTube:** https://youtube.com/@demoneye_official  
+**Telegram:** https://t.me/Next_DYS  
+**GitHub:** https://github.com/DemonEye143  
 
 ---
 
-### Step 3: Deploy Now
+# 🚀 DEPLOYMENT (FASTEST METHODS)
 
-For further customization and setup guidance, click the button below:
-
-📺 **YouTube:** [@HOW TO DEPLOY VIDEO](https://youtu.be/eWhXlyD75_Q)
-
----
-
-### Deploy on Panel
-
-<div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+## 🔥 Step 1 — Fork the Repo  
+<a href="https://github.com/DemonEye143/DEMON_BOT_X.git">
+<img src="https://img.shields.io/badge/FORK_Repository-DemonBotx-blue?style=for-the-badge&logo=github"/>
 </a>
+
+---
+
+## 🔥 Step 2 — Generate Pair Code  
+Scan & generate your **WhatsApp Session** quickly.
+
+<img src="https://img.shields.io/badge/PAIR_CODE-Replit-success?style=for-the-badge&logo=replit"/>
+
+<a href="https://knight-bot-paircode.onrender.com">
+<img src="https://img.shields.io/badge/Pair_Code-EASY_METHOD-ff3333?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+✔️ After generating, upload **creds.json** → `/session`
+
+---
+
+## 🎥 Step 3 — Video Tutorial  
+📌 Full Deployment Guide → https://youtu.be/eWhXlyD75_Q
+
+---
+
+# 🛡️ PREMIUM HOSTING PANEL  
+<a href="https://dashboard.katabump.com/auth/login#d6b7d6">
+<img src="https://img.shields.io/badge/Deploy_On-KATABUMP-black?style=for-the-badge&logo=serverfault"/>
+</a>
+
+---
+
+# 🚀 FEATURES — **PRO EDITION**
+
+## 🧩 Group Management  
+✔ `.tagall` — Mention Everyone  
+✔ Mute/Unmute Group  
+✔ Warn System  
+✔ Auto Kick Spammers  
+✔ Auto Delete Links  
+
+## 🎨 Media Tools  
+✔ Sticker Maker  
+✔ Photo → Sticker  
+✔ URL Screenshot  
+✔ Text Logo Generator  
+
+## 🤖 AI + Fun  
+✔ Text-to-Speech (TTS)  
+✔ Quote / Fact / Joke  
+✔ Tic-Tac-Toe Game  
+✔ Auto Reply Modes  
+
+## 🧰 System Tools  
+✔ Ping / Speed test  
+✔ Uptime  
+✔ Session Status  
+✔ Version Manager  
+
+---
+
+# 📝 License  
+This project is under **MIT License**.  
+Free to modify & distribute.
+
+---
+
+# ⚠️ Legal Disclaimer  
+> This bot is **NOT** an official WhatsApp product.  
+> Using unofficial automation **may cause account ban**.  
+> Developer is **NOT responsible** for any misuse.
+
+---
+
+# ©️ Copyright  
+**© 2025 • Lucifer (DemonEye)**  
+Includes libraries:  
+- Baileys (MIT License)  
+- Other dependencies in package.json  
+
+---
+
+### ❤️ Made with Love & Fire 🔥 by **Lucifer**
+
 </div>
-
----
-
-## ⚙️ Features
-
-- **Tag all group members** with the `.tagall` command
-- **Admin restricted usage** (Only group admins can use certain commands)
-- **Games** like Tic-Tac-Toe for interactive group engagement
-- **Text-to-Speech** with `.tts`
-- **Sticker creation** with `.sticker`
-- **Anti-link detection** for group safety
-- **Warn and manage group members** with admin control
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/mruniquehacker/Knightbot-MD/blob/main/LICENSE) file for details.
-
----
-
-## ⚠️ Important Warning
-
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
-
----
-
-## 📜 Copyright Notice
-
-Copyright (c) 2025 **Lucifer**. All rights reserved.
-
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
