@@ -50,7 +50,7 @@ Scan & generate your **WhatsApp Session** quickly.
 ---
 
 ## 🎥 Step 3 — Video Tutorial  
-📌 Full Deployment Guide → https://youtu.be/eWhXlyD75_Q
+📌 Full Deployment Guide → https://youtu.be/TUuSnGkILoY
 
 ---
 
